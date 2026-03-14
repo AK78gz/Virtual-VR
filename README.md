@@ -17,6 +17,7 @@ This project was created to practice modern frontend development practices, resp
 If you want to run the project locally:
 
 git clone https://github.com/yourusername/virtualvr.git
+
 cd virtualvr
 
 Open the project:
